@@ -2,6 +2,7 @@ import { Author, Post } from '@/models';
 import sequelize from './sequelize';
 
 import type { T_PostCreate } from '@/zod/post';
+import type { T_AuthorCreate } from '@/zod/author';
 
 (async () => {
 	await sequelize.drop({
