@@ -1,3 +1,5 @@
+// src/trpc/handlers/post/get.ts
+
 import { Post } from '@/models';
 
 export async function handlerGetPost({ input }: { input: string }) {

@@ -1,3 +1,5 @@
+// src/db/sequelize.ts
+
 import { Sequelize, Options } from 'sequelize';
 import pg from 'pg';
 import c from 'colors';

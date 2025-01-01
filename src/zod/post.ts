@@ -1,3 +1,5 @@
+// src/zod/post.ts
+
 import { z } from 'zod';
 
 import { authorSchema } from './author';

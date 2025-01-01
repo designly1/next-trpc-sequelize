@@ -1,3 +1,5 @@
+// src/models/author.ts
+
 import { DataTypes, Model } from 'sequelize';
 import sequelize from '@/db/sequelize';
 

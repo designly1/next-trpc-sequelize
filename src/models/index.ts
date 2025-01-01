@@ -1,3 +1,5 @@
+// src/models/index.ts
+
 import Post from './post';
 import Author from './author';
 

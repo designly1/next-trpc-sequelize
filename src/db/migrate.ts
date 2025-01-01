@@ -1,3 +1,5 @@
+// src/db/migrate.ts
+
 import { Author, Post } from '@/models';
 import sequelize from './sequelize';
 

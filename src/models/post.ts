@@ -1,3 +1,5 @@
+// src/models/post.ts
+
 import { DataTypes, Model } from 'sequelize';
 import sequelize from '@/db/sequelize';
 import { kebabCase } from 'lodash-es';
